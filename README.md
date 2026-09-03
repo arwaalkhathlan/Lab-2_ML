@@ -1,5 +1,16 @@
 ## Lab Tasks
 
+### Group Members
+
+| Names | ID |
+| --- | --- |
+| Arwa Alkhathlan | 2250030009 |
+| Noor Albuainain | 2250030050 |
+| Zainab Alharbi | 2250030246 |
+| Joud Albeijan | 2250030261 |
+| Sheehana Alghamdi | 2250030084 |
+| Reem Alshehab | 2250030257 |
+
 ### 3.1 Create the Image Matrix
 Generate a 6×6 NumPy array with values from 0 to 35.
 
@@ -138,6 +149,3 @@ print("Standard Deviation:", img.std())
     
 
 
-```python
-
-```
