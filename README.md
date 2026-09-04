@@ -115,7 +115,27 @@ print("Min Intensity:", img.min())
     Min Intensity: 0
     
 
-## 5.4 to 5.5
+## 5.1 to 5.5
+
+### 5.1	Why is reshaping important in NumPy?
+
+
+Because it helps change the dimension of an array but not change the data. 
+it helps to take 1D array to a 2D Matrix. 
+
+
+### 5.2	How does slicing help in image processing?
+
+
+Slicing gives a quick and efficient method to pick out, retrieve, and modify desired areas in the image matrix 
+(like extracting a 4×4 center portion from a 6×6 matrix), without resorting to loops or copying any irrelevant information.
+
+
+### 5.3	What would happen if brightness enhancement were applied to the entire image?
+
+
+increasing the every element in the matrix will make the whole image brighter.
+
 
 ### 5.4 Modify the code to decrease brightness of border pixels by 5 units
 
